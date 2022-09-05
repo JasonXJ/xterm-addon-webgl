@@ -21,7 +21,5 @@
     "package": "../../node_modules/.bin/webpack",
     "prepublishOnly": "npm run package"
   },
-  "peerDependencies": {
-    "xterm": "^5.0.0"
-  }
+  "peerDependencies": {}
 }
